@@ -1,0 +1,27 @@
+.head {
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  height: 40px;
+  background-color: #3F51B5;
+}
+
+.head div {
+  height: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.head div a {
+  display: flex;
+  align-items: center;
+  color: white;
+  height: 40px;
+}
+
+.head div a:hover {
+  display: flex;
+  align-items: center;
+  color: cyan;
+  height: 40px;
+}
